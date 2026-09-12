@@ -18,7 +18,7 @@ from kivy.core.window import Window
 # JARVIS CONFIGURATION
 # =========================================================
 
-DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
+DEEPSEEK_API_KEY = os.environ.get("sk-or-v1-7be09bae890983593859f849a69a2f647abcb01a21b5eba9d40f981dd8f666ed105:12 PM", "")
 
 DEEPSEEK_URL = "https://api.deepseek.com/chat/completions"
 
